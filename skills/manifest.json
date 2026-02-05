@@ -165,6 +165,21 @@
       "tags": ["设计", "视觉", "前端"],
       "skill_md_path": "visual-design-foundations/SKILL.md",
       "is_enabled": true
+    },
+    {
+      "skill_id": "frontend-project-creator",
+      "name": {
+        "en": "Web Frontend Project Creator",
+        "zh": "创建 Web 前端项目"
+      },
+      "description": {
+        "en": "Frontend project creator supporting React with MUI/shadcn/ui/Bootstrap, includes routing and multi-page structure, generates TypeScript + Vite projects instantly.",
+        "zh": "前端项目创建器，支持 React + MUI/shadcn/ui/Bootstrap，内置路由和多页面结构，一键生成 TypeScript + Vite 项目。"
+      },
+      "categories": ["design", "visual-design"],
+      "tags": ["前端", "开发"],
+      "skill_md_path": "frontend-project-creator/SKILL.md",
+      "is_enabled": true
     }
   ]
 }
