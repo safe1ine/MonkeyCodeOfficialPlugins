@@ -195,6 +195,36 @@
       "tags": ["前端", "设计", "UI", "UX"],
       "skill_md_path": "ui-ux-pro-max/SKILL.md",
       "is_enabled": true
+    },
+    {
+      "skill_id": "feature-design",
+      "name": {
+        "en": "Feature Design",
+        "zh": "功能设计"
+      },
+      "description": {
+        "en": "Guide users through feature specification development using EARS patterns and INCOSE quality rules. Creates requirements documents and technical design specifications with iterative user feedback.",
+        "zh": "使用 EARS 模式和 INCOSE 质量规则引导用户完成功能规格说明开发。通过迭代用户反馈创建需求文档和技术设计规范。"
+      },
+      "categories": ["design", "planning", "requirements", "architecture"],
+      "tags": ["设计", "需求", "架构"],
+      "skill_md_path": "feature-design/SKILL.md",
+      "is_enabled": true
+    },
+    {
+      "skill_id": "project-wiki",
+      "name": {
+        "en": "Project Wiki",
+        "zh": "项目文档"
+      },
+      "description": {
+        "en": "Recursively analyze project structure and code to generate DeepWiki-style complete project documentation. Supports three modes: new project planning, full generation, and sync/refresh.",
+        "zh": "递归分析项目结构和代码内容，生成 DeepWiki 风格的完整项目文档。支持三种模式：新项目规划、完整生成、同步/刷新。"
+      },
+      "categories": ["documentation", "wiki", "analysis"],
+      "tags": ["文档", "wiki", "分析"],
+      "skill_md_path": "project-wiki/SKILL.md",
+      "is_enabled": true
     }
   ]
 }
