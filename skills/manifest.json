@@ -227,6 +227,36 @@
       "is_enabled": true
     },
     {
+      "skill_id": "implementation-planner",
+      "name": {
+        "en": "Implementation Planner",
+        "zh": "实施计划生成器"
+      },
+      "description": {
+        "en": "Software architect agent that transforms design documents into detailed, executable implementation plans. Creates structured task lists with testing strategy, checkpoints, and progressive building blocks for coding agents.",
+        "zh": "软件架构师代理，将设计文档转化为详细可执行的实施计划。创建包含测试策略、检查点和渐进式构建块的结构化任务列表，供编码代理执行。"
+      },
+      "categories": ["planning", "architecture", "workflow", "implementation"],
+      "tags": ["架构", "计划", "开发", "实施"],
+      "skill_md_path": "implementation-planner/SKILL.md",
+      "is_enabled": true
+    },
+    {
+      "skill_id": "feature-implementer",
+      "name": {
+        "en": "Feature Implementer",
+        "zh": "功能实施执行器"
+      },
+      "description": {
+        "en": "Professional software engineer that executes implementation tasks based on technical specifications and task lists. Follows test-driven development practices, implements one task at a time, and updates progress in the task list.",
+        "zh": "专业的软件工程师，根据技术规范和任务列表执行实施任务。遵循测试驱动开发实践，一次执行一个任务，并在任务列表中更新进度。"
+      },
+      "categories": ["implementation", "development", "testing", "tdd"],
+      "tags": ["开发", "实施", "测试", "编码"],
+      "skill_md_path": "feature-implementer/SKILL.md",
+      "is_enabled": true
+    },
+    {
       "skill_id": "mui-helper",
       "name": {
         "en": "MUI Helper",
