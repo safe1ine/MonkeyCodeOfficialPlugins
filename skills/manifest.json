@@ -185,14 +185,14 @@
       "skill_id": "ui-ux-pro-max",
       "name": {
         "en": "UI/UX Pro Max - Design Intelligence",
-        "zh": "UI/UX 专业版 - 设计智能"
+        "zh": "UI/UX 设计智能"
       },
       "description": {
         "en": "Searchable database of UI styles, color palettes, font pairings, chart types, product recommendations, UX guidelines, and stack-specific best practices. Supports React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind, and shadcn/ui. Use when building frontend pages, landing pages, dashboards, admin panels, e-commerce sites, SaaS apps, portfolios, blogs, or mobile apps.",
         "zh": "可搜索的 UI 风格、调色板、字体配对、图表类型、产品推荐、UX 指南和特定技术栈最佳实践数据库。支持 React、Next.js、Vue、Svelte、SwiftUI、React Native、Flutter、Tailwind 和 shadcn/ui。用于构建前端页面、落地页、仪表板、管理面板、电商网站、SaaS 应用、作品集、博客或移动应用时使用。"
       },
       "categories": ["ui", "ux", "design", "frontend", "mobile", "web"],
-      "tags": ["前端", "设计", "UI", "UX"],
+      "tags": ["前端", "设计", "UI", "UX", "字体", "图表", "配色", "落地页", "仪表盘"],
       "skill_md_path": "ui-ux-pro-max/SKILL.md",
       "is_enabled": true
     },
@@ -299,6 +299,36 @@
       "categories": ["frontend", "css", "styling", "tailwind"],
       "tags": ["前端", "CSS", "开发", "组件库", "UI"],
       "skill_md_path": "tailwindcss-helper/SKILL.md",
+      "is_enabled": true
+    },
+    {
+      "skill_id": "bootstrap-helper",
+      "name": {
+        "en": "Bootstrap CSS Helper",
+        "zh": "Bootstrap 参考助手"
+      },
+      "description": {
+        "en": "Bootstrap web frontend framework reference documentation assistant. Automatically triggers when using Bootstrap 5.3: (1) finding components, utilities, and layouts, (2) learning Bootstrap component usage and best practices, (3) implementing responsive design, form validation, modals, and other interactions, (4) customizing themes, color modes, and configuration, (5) resolving Bootstrap integration and compatibility issues.",
+        "zh": "Bootstrap Web 前端框架参考文档助手。在需要使用 Bootstrap 5.3 时自动触发：(1) 查找组件、工具类和布局，(2) 学习 Bootstrap 组件的正确用法和最佳实践，(3) 实现响应式设计、表单验证、模态框等交互，(4) 定制主题、颜色模式和配置，(5) 解决 Bootstrap 集成和兼容性问题。"
+      },
+      "categories": ["frontend", "web", "framework", "bootstrap"],
+      "tags": ["前端", "开发", "组件库", "UI"],
+      "skill_md_path": "bootstrap-helper/SKILL.md",
+      "is_enabled": true
+    },
+    {
+      "skill_id": "corporate-website-dev",
+      "name": {
+        "en": "Corporate Website Development",
+        "zh": "企业官网开发"
+      },
+      "description": {
+        "en": "Use when the user needs a 0→1 corporate or product website. Runs mandatory discovery via the question tool, aligns UI decisions with ui-ux-pro-max, and delivers plans plus code scaffolds built with Vite + Bootstrap + Tailwind, ending with deployment guidance.",
+        "zh": "当用户需要 0→1 打造企业/产品官网时使用。该技能强制通过提问工具完成调研，按照 ui-ux-pro-max 的设计思路制定方案，并以 Vite + Bootstrap + Tailwind 技术栈输出项目文档、代码脚手架与部署指导。"
+      },
+      "categories": ["web", "frontend", "planning", "implementation"],
+      "tags": ["官网", "开发"],
+      "skill_md_path": "corporate-website-dev/SKILL.md",
       "is_enabled": true
     }
   ]
