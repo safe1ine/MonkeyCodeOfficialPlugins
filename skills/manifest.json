@@ -315,6 +315,21 @@
       "tags": ["前端", "开发", "组件库", "UI"],
       "skill_md_path": "bootstrap-helper/SKILL.md",
       "is_enabled": true
+    },
+    {
+      "skill_id": "corporate-website-dev",
+      "name": {
+        "en": "Corporate Website Development",
+        "zh": "企业官网开发"
+      },
+      "description": {
+        "en": "Use when the user needs a 0→1 corporate or product website. Runs mandatory discovery via the question tool, aligns UI decisions with ui-ux-pro-max, and delivers plans plus code scaffolds built with Vite + Bootstrap + Tailwind, ending with deployment guidance.",
+        "zh": "当用户需要 0→1 打造企业/产品官网时使用。该技能强制通过提问工具完成调研，按照 ui-ux-pro-max 的设计思路制定方案，并以 Vite + Bootstrap + Tailwind 技术栈输出项目文档、代码脚手架与部署指导。"
+      },
+      "categories": ["web", "frontend", "planning", "implementation"],
+      "tags": ["官网", "开发"],
+      "skill_md_path": "corporate-website-dev/SKILL.md",
+      "is_enabled": true
     }
   ]
 }
